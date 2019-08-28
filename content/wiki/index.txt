@@ -1,5 +1,5 @@
-title: Wiki
+title: Projects
 ----
 view: wiki
 ----
-text: Collection of additional notes, thoughts, logs.
+text: Collection of projects from 2014-2019.
