@@ -1,8 +1,8 @@
-title: Hunor Karamán
+title: Tom Hackshaw
 ----
 view: home
 ----
-text: I’m a _digital explorer_ working on experimental projects with small footprint,  fast websites & solutions for the peer-to-peer web.
+text: I’m a _creative_ working on experimental projects with small footprint,  fast websites & solutions for the peer-to-peer web.
 
 ---
 
