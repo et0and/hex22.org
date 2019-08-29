@@ -2,7 +2,9 @@ title: Tom Hackshaw
 ----
 view: home
 ---
-text:
+text: Personal website and wiki of Tom Hackshaw
+---
+
 [About](/about) 
 [Are.na](https://are.na/tom)
 [Merveilles](https://merveilles.town/@tomupom)
