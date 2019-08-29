@@ -4,25 +4,8 @@ view: default
 ----
 banner: true
 ----
-text: I try to keep this page updated about my current interests within the peer-to-peer web space.
-
-In the past I've built a few applications that express some of the possibilities of the peer-to-peer web. Although, it was an amazing experience and I'm proud of what I've made, I also see this (focusing so much on making) as a mistake. That's why my current interests have changed from *more building* to *more thinking*.
-
-### Currently
-
-I'm not working on any projects related to the peer-to-peer web.
-
-### Previously I've made
-
-1. [Pears](https://github.com/as-dr/pears) ― A peer-to-peer, temporary, collaborative playlist, 2018―2019
-2. [present](https://github.com/kodedninja/present) ― Peer-to-Peer text-to-presentation tool, 2018
-3. [seeder](https://github.com/new-computers/seeder) ― Plug-and-play Raspberry Pi DAT seeder, 2018
-4. [ridder](https://github.com/kodedninja/ridder) ― An RSS reader that you own, 2018
-5. [solo](https://github.com/kodedninja/solo) ― The simplest publication tool, 2018
-6. [orkl](https://github.com/kodedninja/orkl) ― Super simple peer-to-peer blogging site, 2018
-7. [ntain](https://github.com/kodedninja/ntain) ― Peer-to-Peer file sharing site, 2017
-
-Some other projects on my [GitHub](https://github.com/kodedninja).
+text: Philemon is a private archive containing documentaries and papers relating to or about the Swiss psychoanalyst Carl Gustav Jung. I created the archive as a personal resource to further my understanding and research of Jungian psychology.
+![Image of binders on a shelf](/content/philemon/archive.gif)
 ----
 short: A Jungian research archive
 ----
