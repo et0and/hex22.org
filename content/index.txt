@@ -2,7 +2,7 @@ title: Tom Hackshaw
 ----
 view: home
 ---
-
+text:
 [About](/about) 
 [Are.na](https://are.na/tom)
 [Merveilles](https://merveilles.town/@tomupom)
