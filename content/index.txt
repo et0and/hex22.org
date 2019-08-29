@@ -2,7 +2,7 @@ title: Tom Hackshaw
 ----
 view: home
 ----
-text: Something and Nothing
+text: "Something and Nothing"
 
 ---
 ![No War](/content/index.gif)
