@@ -5,6 +5,7 @@ view: home
 text: Something and Nothing
 
 ---
+![No War](/content/index.gif)
 
 ## Current
 
