@@ -1,6 +1,6 @@
 title: Tom Hackshaw
 ----
-view: home
+view: default
 ---
 text: Personal website and wiki of Tom Hackshaw
 ---
