@@ -1,0 +1,12 @@
+title: About this site
+----
+view: default
+----
+banner: true
+----
+text: This is a fully static site built with [Choo](https://choo.io) and [Enoki](https://enoki.site). It is optimised for speed, reliability and accessibility.
+
+It features the [Inter](https://rsms.me/inter) typeset, serverless deployment by [Netlify](https://netlify.com), a security certificate issued through [Let's Encrypt](https://letsencrypt.org), and is published on the decentralised web via [Dat](https://datproject.org).
+
+All material on this site, including the code of the site itself, is available on [Github](https://github.com/et0and/hex22.org)
+
