@@ -1,31 +1,14 @@
 title: Tom Hackshaw
 ----
 view: home
-----
-text: I’m a _creative_ working on experimental projects with small footprint,  fast websites & solutions for the peer-to-peer web.
+---
+
+[About](/about) 
+[Are.na](https://are.na/tom)
+[Merveilles](https://merveilles.town/@tomupom)
+[Kommons Werkstatt](https://www.kommons.org)
+<a href="https://webring.xxiivv.com/#random" target="_blank">Webring</a>
 
 ---
 
-## Currently
-
-Web-developer at [GeoGebra](https://geogebra.org), 2018―
-
-## Previously
-
-Experimenting with [peer-to-peer tools](/projects), 2017―2019
-Co-Made [Pictogon](https://pictogon.com), 2017
-
----
-
-I'm present on [GitHub](https://github.com/kodedninja), [Are.na](https://are.na/hunor-karaman), [Mastodon](https://merveilles.town/@kodedninja) and [twtxt](https://t.seed.hex22.org/twtxt.txt).
-You can contact me via [email](mailto:karamanhunor@pm.me).
-
-Everything I make should pass most of the criterias in my [Manifesto](/manifesto).
-
----
-
-The site is part of a <a href="https://webring.xxiivv.com/#random" target="_blank">Webring</a> and built on [this stack](/blog/new-stack).
-
----
-
-<span class="wwb">dat://d300be8617994ae2796e2e383aba3ce6a4219c27ca6d062eb478341d472028a8/</span>
+[Contact](mailto:tom@tomhackshaw.com)
