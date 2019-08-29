@@ -1,7 +1,7 @@
-# hex22.org
+# Tom Hackshaw's personal site and wiki
 
-Available at:
+Forked from [Hunor's personal site, hex22.org](https://github.com/kodedninja/hex22.org). Besides a few design changes that I made, all credit goes to him and the [Choo](https://choo.io) project (what the site is built on).
 
-- [dat://hex22.org](dat://hex22.org)
-- [dat://89a2ea9d96ade0d182e1ed1d70640c523d3d3dc79114c30cf492d4c5482fd47e/](dat://89a2ea9d96ade0d182e1ed1d70640c523d3d3dc79114c30cf492d4c5482fd47e/)
-- [https://hex22.org](https://hex22.org)
+I wanted to learn more about JS and Node, and had heard fantastic things about the Choo framework. While my existing site was fairly lightweight and fast, the beauty of not having to trigger a new HTTP request with each page/link was just too good to not try out. 
+
+Slowly in the process of migrating projects onto this repo...
