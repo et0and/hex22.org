@@ -11,7 +11,7 @@ function wrapper (state, emit) {
   if (!state.site.loaded) return loading()
   var view = views[state.page().v('view')] || views.notfound
 
-  emit('DOMTitleChange', 'hex22 | ' + state.page().v('title'))
+  emit('DOMTitleChange', 'Index | ' + state.page().v('title'))
 
   return html`
     <body>
