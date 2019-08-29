@@ -1,4 +1,4 @@
-title: Projects
+title: Philemon
 ----
 view: default
 ----
@@ -24,6 +24,6 @@ I'm not working on any projects related to the peer-to-peer web.
 
 Some other projects on my [GitHub](https://github.com/kodedninja).
 ----
-short: Keeping track of my work in the peer-to-peer web space
+short: A Jungian research archive
 ----
 showonwiki: true
