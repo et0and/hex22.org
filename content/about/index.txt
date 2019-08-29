@@ -34,4 +34,4 @@ Tom Hackshaw
 
 ---
 
-[About this site](/site) / [Manifesto](/manifesto) / [Accessibility](/accessibility) / [License](/license)
+[About this site](/site) / [Manifesto](/manifesto) / [Accessibility](/accessibility) / [License](https://github.com/et0and/hex22.org/blob/master/LICENSE)
