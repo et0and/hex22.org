@@ -1,16 +1,26 @@
 title: Tom Hackshaw
 ----
-view: default
----
-text: Personal website and wiki of Tom Hackshaw
----
-
-[About](/about) 
-[Are.na](https://are.na/tom)
-[Merveilles](https://merveilles.town/@tomupom)
-[Kommons Werkstatt](https://www.kommons.org)
-<a href="https://webring.xxiivv.com/#random" target="_blank">Webring</a>
+view: home
+----
+text: Something and Nothing
 
 ---
 
+## Current
+
+Web-developer at [kommons Werkstatt](https://www.kommons.org), 2019―
+
+Pre-service visual arts teacher, 2019-
+
+## Previously
+
+Experimenting with [peer-to-peer tools](/p2p), 2017―2019
+Co-Made [Pictogon](https://pictogon.com), 2017
+
+---
+
+[About](/about), 
+[Are.na](https://are.na/tom), 
+[Merveilles](https://merveilles.town/@tomupom),
+[Webring](https://webring.xxiivv.com/#wiki.xxiivv),
 [Contact](mailto:tom@tomhackshaw.com)
