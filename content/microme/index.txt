@@ -1,0 +1,15 @@
+title: Microme
+----
+view: default
+----
+banner: true
+----
+text: Microme is a small scale indoor garden system experiment ("micro-biome") for growing seedlings to be ready for the Summer. As a response to the declining population of bees, Microme has focused on growing Marigold flowers through the Winter for transplanting in the Summer. 
+
+The system currently consists of a low-power fluorescent light that is kept on 24/7, housed inside a lined box that consists of a variety of plants. Watering is done by hand, and the soil is kept rich using small amounts of organic coffee grounds. 
+
+The project is set to expand to include a greater variety of flora, automated watering and mulching, and be modular in design to allow for easy transport and set up. 
+----
+short: An indoor garden/ecosystem
+----
+showonwiki: true
