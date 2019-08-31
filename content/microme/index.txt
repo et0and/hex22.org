@@ -9,6 +9,15 @@ text: Microme is a small scale indoor garden experiment ("micro-biome") for grow
 The system currently consists of a low-power fluorescent light that is kept on 24/7, housed inside a lined box that consists of a variety of plants. Watering is done by hand, and the soil is kept rich using small amounts of organic coffee grounds. 
 
 The project is set to expand to include a greater variety of flora, automated watering and mulching, and be modular in design to allow for easy transport and set up. 
+
+![Microme first week](/content/microme/microme1.gif)
+
+![Microme second week](/content/microme/microme2.gif)
+
+![Microme third week](/content/microme/microme3.gif)
+
+![Microme fourth week](/content/microme/microme4.gif)
+
 ----
 short: An indoor garden/ecosystem
 ----
