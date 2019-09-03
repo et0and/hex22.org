@@ -8,7 +8,7 @@ text: This is a fully static site built with [Choo](https://choo.io) and [Enoki]
 
 It features the [Inter](https://rsms.me/inter) typeset, serverless deployment by [Now](https://now.sh), a security certificate issued through [Let's Encrypt](https://letsencrypt.org), and is published on the decentralised web via [Dat](https://datproject.org).
 
-The site is made to operate on low power, [generating 0.23g of carbon with page view](https://www.websitecarbon.com/website/tom-org-nz/), and is running on clean renewable energy. I am working towards making this site even more efficient and lightweight, with the hopes of bringing each page view to < 0.10g of carbon emission. 
+The site is made to operate on low power, [generating 0.23g of carbon with each page view](https://www.websitecarbon.com/website/tom-org-nz/), and runs on clean renewable energy. I am working towards making this site even more efficient and lightweight, with the hopes of bringing each page view to < 0.10g of carbon emission. 
 
 All material on this site, including the code of the site itself, is available on [Github](https://github.com/et0and/hex22.org). I give thanks to the original author [Hunor Karamán](https://github.com/kodedninja) for building the original site. All I have done is forked his original codebase and changed a few things to suit my needs under the terms of the [Apache License 2.0](https://github.com/kodedninja/hex22.org/blob/master/LICENSE).
 
