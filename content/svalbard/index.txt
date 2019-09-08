@@ -8,7 +8,7 @@ text: Svalbard is a cold storage time vault built on upon [Backblaze B2](https:/
 
 The name is inspired by the [Svalbard Global Seed Vault](https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault) project.
 
-![Svalbard archive](/content/svalbard/server.gif)
+![Svalbard archive](/content/svalbard/crates.gif)
 ----
 short: A time vault
 ----
