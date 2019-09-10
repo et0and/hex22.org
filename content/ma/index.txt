@@ -1,0 +1,12 @@
+title: Maai
+----
+view: default
+----
+banner: true
+----
+text: Maai is an experimental management philosophy focusing on how my time and resources are divided. The project is inspired by Sergey Brin's philosophy of splitting things 70%/20%/10%, with 70% dedicated to core priorities and obligations, 20% to adjacent projects that help to extend/grow/tend to core commitments, and 10% being totally free and experimental.
+
+----
+short: A management project
+----
+showonwiki: true
