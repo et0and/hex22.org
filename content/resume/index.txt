@@ -8,6 +8,8 @@ text: ## Personal
 ---
 Currently living in Auckland, New Zealand. Authorised to work anywhere in Japan, New Zealand, and the European Union. 
 
+[PDF](/content/resume/cv.pdf)
+
 ## Work experience
 ***
 - **March 2019 - present**
@@ -41,7 +43,7 @@ Most of my work has involved working within the arts and/or education sector. We
 - [Some Quiet Tips](https://some.quiet.tips), a mental health resource app
 - [Whitecubes](https://map.pmop.xyz), an interactive map of art spaces in New Zealand
 
-I also work(ed) in the following groups:
+I also work(ed) with the following groups:
 
 - [The Eda Fund](https://eda.fund) (with Komon Fujinuma)
 A Kommons Werkstatt initiative of creating a socially responsible investment fund dedicated to supporting the arts in New Zealand through small grants and other means.
