@@ -8,7 +8,7 @@ text: ## Personal
 ---
 Currently living in Auckland, New Zealand. Authorised to work anywhere in Japan, New Zealand, and the European Union. 
 
-[PDF](/content/resume/cv.pdf)
+[PDF](https://tomupom.keybase.pub/cv.pdf)
 
 ## Work experience
 ***
