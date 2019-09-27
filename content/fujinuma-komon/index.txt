@@ -1,0 +1,12 @@
+title: Fujinuma Komon®
+----
+view: default
+----
+banner: true
+----
+text: Fujinuma Komon® is a clothing brand started in September 2019. 
+
+----
+short: A clothing brand 
+----
+showonwiki: true
