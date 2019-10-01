@@ -32,7 +32,8 @@ If what I see in or express of myself reminds you of your own actions, then toge
 Sincerely,
 Tom Hackshaw
 
-p.s. if you want to contact me, use the email link on the frontpage! Otherwise, feel free to send me a message on [Telegram](https://t.me/hackshaw)
+If you ever want to contact me, use the email link on the frontpage! Otherwise, feel free to send me a message on [Telegram](https://t.me/hackshaw)
+
 ---
 
 [About this site](/site) / [Manifesto](/manifesto) / [Accessibility](/accessibility) / [License](https://github.com/et0and/hex22.org/blob/master/LICENSE) / [Resume](/resume)
