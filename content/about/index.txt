@@ -19,7 +19,7 @@ Ko Tom tōku ingoa
 ---
 
 This is my humble website of projects and resources.
-This site is always under construction. It was last updated on Wednesday 4 September, 2019 in Tāmaki Makaurau, Aotearoa.
+This site is always under construction. It was last updated on Wednesday 2 October, 2019 in Tāmaki Makaurau, Aotearoa.
 
 I’ve had a fascination with the Web and technology from a young age, and got to know all kinds of different people through IRC and Usenet channels. I feel as though I grew up on the Internet, and that it has taught me a lot of what I know.
 
@@ -32,6 +32,7 @@ If what I see in or express of myself reminds you of your own actions, then toge
 Sincerely,
 Tom Hackshaw
 
+p.s. if you want to contact me, use the email link on the frontpage! Otherwise, feel free to send me a message on [Telegram](https://t.me/hackshaw)
 ---
 
 [About this site](/site) / [Manifesto](/manifesto) / [Accessibility](/accessibility) / [License](https://github.com/et0and/hex22.org/blob/master/LICENSE) / [Resume](/resume)
