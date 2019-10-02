@@ -4,9 +4,9 @@ view: default
 ----
 banner: true
 ----
-text: Gaia is a mass recycling and upcycling app aimed at reducing landfill waste. 
+text: Gaia is a mass recycling and upcycling app aimed at reducing landfill waste in Tāmaki Makaurau Auckland. 
 
-Leveraging existing commercial services by [Terracycle](), [Upcycle]() and [Abilities](), Gaia acts as a middleman for those wanting to responsibly dispose of the following items:
+Leveraging existing commercial services by [Terracycle](https://terracycle.com), [Upcycle](http://www.upcycle.co.nz/) and [Abilities](https://www.abilities.co.nz/), Gaia acts as a middleman for those wanting to responsibly dispose of the following items:
 
 - Dolce Gusto Nespresso Capsules
 - Plastic toothbrushes
@@ -30,9 +30,9 @@ The app and project is still in active development, with plans to create a carbo
 
 For more information or queries please contact [mail@gaia.sh](mailto:mail@gaia.sh) or message me on [Telegram](https://t.me/hackshaw)
 
-![Gaia](/content/eda/eda.gif)
+![Gaia](/content/gaia/gaia.gif)
 
 ----
-short: A recycling project
+short: A recycling app
 ----
 showonwiki: true
