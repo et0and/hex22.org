@@ -1,0 +1,38 @@
+title: Gaia
+----
+view: default
+----
+banner: true
+----
+text: Gaia is a mass recycling and upcycling app aimed at reducing landfill waste. 
+
+Leveraging existing commercial services by [Terracycle](), [Upcycle]() and [Abilities](), Gaia acts as a middleman for those wanting to responsibly dispose of the following items:
+
+- Dolce Gusto Nespresso Capsules
+- Plastic toothbrushes
+- Toothpaste packaging
+- Compostable coffee cups and lids
+- Coffee bags (Supreme, Kokako, Peoples)
+- LCD televisions 
+- Plasma televisions
+- CRT box televisions 
+- Laptops
+- Desktop computers
+- Printers and ink cartridges
+- Cellphones
+- GLAD ziplock bags 
+- GLAD wrap (or equivalent)
+- Batteries (AA, AAA, car)
+
+This is a community project. Please be aware that I am the sole person working on Gaia, and that (particularly for e-waste items) it is entirely funded by me. While it is still in its infancy, Gaia might take a little while to respond to you. 
+
+The app and project is still in active development, with plans to create a carbon neutral (or negative) means of collecting waste from households. Any suggestions and feedback would be highly appreciated. 
+
+For more information or queries please contact [mail@gaia.sh](mailto:mail@gaia.sh) or message me on [Telegram](https://t.me/hackshaw)
+
+![Gaia](/content/eda/eda.gif)
+
+----
+short: A recycling project
+----
+showonwiki: true
