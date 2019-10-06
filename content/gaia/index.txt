@@ -4,7 +4,7 @@ view: default
 ----
 banner: true
 ----
-text: Gaia is a mass recycling and upcycling app aimed at reducing landfill waste in Tāmaki Makaurau Auckland. 
+text: Gaia is a proof-of-concept mass recycling and upcycling app aimed at reducing landfill waste in Tāmaki Makaurau Auckland. 
 
 Leveraging existing commercial services by [Terracycle](https://terracycle.com), [Upcycle](http://www.upcycle.co.nz/) and [Abilities](https://www.abilities.co.nz/), Gaia acts as a middleman for those wanting to responsibly dispose of the following items:
 
@@ -24,9 +24,8 @@ Leveraging existing commercial services by [Terracycle](https://terracycle.com),
 - GLAD wrap (or equivalent)
 - Batteries (AA, AAA, car)
 
-This is a community project. Please be aware that I am the sole person working on Gaia, and that (particularly for e-waste items) it is entirely funded by me. While it is still in its infancy, Gaia might take a little while to respond to you. 
 
-The app and project is still in active development, with plans to create a carbon neutral (or negative) means of collecting waste from households. Any suggestions and feedback would be highly appreciated. 
+The app and project is still in active development, with plans to create a carbon neutral (or negative) means of collecting waste from households. One idea is to use a zero emissions utility vehicle such as the [Nissan EV NV200](https://electrek.co/2018/04/24/nissan-e-nv200-electric-van-new-40-kwh-battery-pack/). Any further suggestions and feedback would be highly appreciated. 
 
 For more information or queries please contact [mail@gaia.sh](mailto:mail@gaia.sh) or message me on [Telegram](https://t.me/hackshaw)
 
