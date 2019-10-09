@@ -5,13 +5,12 @@ view: home
 text: "Something and Nothing"
 
 ---
-![No War](/content/index.gif)
 
 ## Current
 
-Design at [Kommons Werkstatt](https://www.kommons.org)
-Radio programming at [Vital](https://vital.co.nz)
-Training secondary school teacher
+Design at [Kommons Werkstatt](https://www.kommons.org), 2019-
+Radio programmer at [Vital](https://vital.co.nz), 2019-
+Training secondary school teacher at [The University of Auckland](https://education.auckland.ac.nz)
 
 ---
 [Are.na](https://are.na/tom)
