@@ -2,7 +2,7 @@ title: Tom Hackshaw
 ----
 view: home
 ----
-text: ![Index](/content/kids.gif)
+![Index](/content/kids.gif)
 
 ---
 [Are.na](https://are.na/tom)
