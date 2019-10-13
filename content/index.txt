@@ -5,13 +5,6 @@ view: home
 text: "Something and Nothing"
 
 ---
-
-## Current
-
-Design at [Kommons Werkstatt](https://www.kommons.org), 2019-
-Radio programmer at [Vital](https://vital.co.nz), 2019-
-
----
 [Are.na](https://are.na/tom)
 [Merveilles](https://merveilles.town/@tomupom)
 [Webring](https://webring.xxiivv.com/#wiki.xxiivv)
