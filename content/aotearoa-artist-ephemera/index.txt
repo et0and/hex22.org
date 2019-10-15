@@ -12,6 +12,6 @@ Most of these files are still under the respective copyright of the artist(s) an
 ![AAE](/content/aotearoa-artist-ephemera/aae.gif)
 
 ----
-short: An Aotearoa artist and gallery ephemera archive
+short: An artist and gallery ephemera archive
 ----
 showonwiki: true
