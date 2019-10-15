@@ -10,6 +10,7 @@ text: I currently use a 2011 Thinkpad X220 with 8GB of RAM and 3.2Ghz i5 process
 
 ![Screenshot of my desktop](/content/wiki/workstation/desktop.gif)
 
+- Operating System: [Void](https://voidlinux.org/) / [NixOS](https://nixos.org/) / Windows
 - Browser: [Firefox](https://mozilla.org/firefox) / [Beaker](https://beakerbrowser.com/) / [Surf](https://surf.suckless.org/)
 - Terminal: [st](https://st.suckless.org/) / [Sakura](https://launchpad.net/sakura)
 - Text Editor: [Neovim](https://neovim.io/) / [Visual Studio Code](https://code.visualstudio.com/) / [Left](https://hundredrabbits.itch.io/left)
@@ -17,4 +18,4 @@ text: I currently use a 2011 Thinkpad X220 with 8GB of RAM and 3.2Ghz i5 process
 - Window Manager: [i3wm](https://i3wm.org)
 - Music: [Spotify](https://spotify.com/)
 - Video Player: [mpv](https://mpv.io)
-- Chat: [Signal](https://signal.org)
+- Chat: [Signal](https://signal.org) / [Telegram](https://telegram.org)
