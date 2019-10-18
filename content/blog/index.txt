@@ -1,5 +1,0 @@
-title: Writings
-----
-view: blog
-----
-entriesPerPage: 5
