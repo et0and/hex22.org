@@ -14,7 +14,7 @@ The system is currently in a closed beta, with plans to open to the general publ
 
 New teachers, pre-service teachers, and those swapping courses need access to quality institutional knowledge and a way of distributing it. If you are interested in supporting our mission, contact us at [kiaora@aion.ac](mailto:kiaora@aion.ac)
 
-![Aion](/content/aion/aion.gif)
+![Aion](/content/aion/aion.png)
 
 ----
 short: A teacher sharing platform
