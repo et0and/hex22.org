@@ -4,7 +4,7 @@ view: default
 ----
 banner: true
 ----
-text: [Aion](https://aion.ac) is an online education platform founded by Peter Willis and myself.
+text: [Aion](https://aion.ac) is an online education platform founded by Peter Wills and myself.
 
 Early career teachers in Aotearoa are under great pressure to create their own resources from scratch, despite being the least experienced in the profession. Teachers want to share but there is currently no centralised system for sharing knowledge and material, and current systems in the form of mailing lists, Facebook Groups and Google Drive folders are scattered and closed off by default.
 
