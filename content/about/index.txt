@@ -19,7 +19,9 @@ Ko Tom tōku ingoa
 ---
 
 This is my humble website of projects and resources.
-This site is always under construction. It was last updated on Wednesday 2 October, 2019 in Tāmaki Makaurau, Aotearoa.
+This site is always under construction. It was last updated on Wednesday 4 December, 2019 in Tāmaki Makaurau, Aotearoa.
+
+Prior to working in education I came from an art and design background. This is important. 
 
 I’ve had a fascination with the Web and technology from a young age, and got to know all kinds of different people through IRC and Usenet channels. I feel as though I grew up on the Internet, and that it has taught me a lot of what I know.
 
