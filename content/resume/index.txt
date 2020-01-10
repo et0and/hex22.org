@@ -8,53 +8,19 @@ text: ## Personal
 ---
 Currently living in Auckland, New Zealand. Authorised to work anywhere in Japan, New Zealand, and the European Union. 
 
-[PDF](https://tomupom.keybase.pub/cv.pdf)
+Date | Bio | Info
+:---: | :---: | :---:
+`August 1995` | Hakodate, Japan | Japanese/New Zealander
+`March 2014` | BFA (Hons) at Elam | Sculpture and performance specialisation
+`January 2019` | GDTSE at The Faculty of Education & Social Work | Visual Arts teaching
+`March 2019` | Designer at Kommons Werkstatt | Met Komon Fujinuma, started experimental company
 
-## Work experience
-***
-- **March 2019 - present**
-Co-founder and lead designer, [kommons.org](https://www.kommons.org)
-Kommons Werkstatt is a non-profit design and web development studio where I serve as the lead designer and developer. Responsible for design, code, operations, budgeting, helping existing clients, and seeking to attract new ones.
+## Previous roles/clients
 
-- **March 2017 - June 2018**
-Teaching support and tautoko, [Elam School of Fine Arts](https://elamartists.ac.nz)
-Taught first and second year studio art programme.
-Specialised in sculpture, photography, moving-image, installation, performance and art history.
-Responsible for benchmarking and assessment of student work.
-
-- **November 2016 - December 2017**
-Gallery assistant, [Sanderson Contemporary](https://sanderson.co.nz)
-Mounted and assisted in the installation of exhibitions by gallery artists.
-Worked under the direction of gallery directors and represented artists.
-Occasionally helped install and/or maintain work in buyers' homes.
-
-- **October 2014 - March 2016**
-Workshop assistant, [Michael Parekōwhai](http://michaellett.com/artist/michael-parekowhai/)
-Worked alongside Michael Parekōwhai and his team in Henderson, Auckland.
-Responsible for sanding, modelling, cleaning, waterblasting, installing and removing artworks from shows across New Zealand and Australia.
-Worked with materials such as aluminium, steel, wood, clay and epoxy resin.
-A really awesome job and experience to have had that I am very grateful for.
-
-## Projects
-***
-Most of my work has involved working within the arts and/or education sector. Web applications and resources have been mostly in vanilla HTML, CSS and Javascript, but with a heavy reliance on APIs from [are.na](https://are.na), [GCP](https://cloud.google.com), [Backblaze B2](https://backblaze.com) et al.
-
-- [Artists from Asia](https://artistsfrom.asia), a database of Asian artists made using the are.na API
-- [Some Quiet Tips](https://some.quiet.tips), a mental health resource app
-- [Whitecubes](https://map.pmop.xyz), an interactive map of art spaces in New Zealand
-
-I also work(ed) with the following groups:
-
-- [The Eda Fund](https://eda.fund) (with Komon Fujinuma)
-A Kommons Werkstatt initiative of creating a socially responsible investment fund dedicated to supporting the arts in New Zealand through small grants and other means.
-
-- [Merveilles](https://merveilles.town)
-A community of artists and developers seeking augmentation through the arts of engineering and design, and closely aligned with the solarpunk movement. They express themselves through music, art, games, writing, and also put great value in play.
-
-- [IOWA](https://vimeo.com/iowaco) (It's Okay We're Artists, with Afreen Naoroji, Anita Kagaya, Bella Sun, Joseph Durana, Shi Xu, Rosza Majsa, Taipari Connelly, Albert Folasa-Sua, Kaoru Kodama, Jade Parks, Anna Ozawa, Kaylin Debruyn, Emily Cloete, Frida Lotz-Keegan, and Wai Ching)
-A collective born out of an art school project, which ran from August 2014 - December 2015.
-
-## Education
-***
-Graduate Diploma of Teaching (Secondary), 2019, The University of Auckland
-BFA (Hons), 2014 - 2017, Elam School of Fine Arts, The University of Auckland
+Name | WWW | Length | Projects
+:---: | :---: | :---: | :---: 
+Elam | [Website](https://elamartists.ac.nz) | `2018` `2017` | [Thesis](https://osf.io/preprints/socarxiv/g6ke9)
+ART+OBJECT | [Website](http://artandobject.co.nz) | `2018` `2017` `2016` | [The Tim and Sherrah Francis Collection](https://www.artandobject.co.nz/auction/106_1/the-tim-and-sherrah-francis-collection-evening-one)
+Sanderson Contemporary | [Website](https://sanderson.co.nz) | `2017` `2016` | 
+Michael Parekōwhai | [Website](http://michaellett.com/artist/michael-parekowhai) | `2014` `2015` | [The Promised Land](https://www.roslynoxley9.com.au/exhibition/the-promised-land/h9cy4)
+Artspace Aotearoa | [Website](http://artspace-aotearoa.nz) | `2015` `2014` | [The Shadow of the Dome of Pleasure](http://eyecontactsite.com/2015/09/feels-so-real)
