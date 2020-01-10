@@ -8,7 +8,7 @@ text: ## Personal
 ---
 Currently living in Auckland, New Zealand. Authorised to work anywhere in Japan, New Zealand, and the European Union. 
 
-Date | Bio | Info
+🗓 | 📁 | 📂
 --- | --- | ---
 `1995` | Hakodate, Japan | Japanese/New Zealander
 `2014` | BFA (Hons) at Elam | Sculpture and performance specialisation
@@ -17,10 +17,10 @@ Date | Bio | Info
 
 ## Previous roles/clients
 ---
-Name | WWW | Length | Projects
+💁🏽‍♂️ | 🌍 | ⏱ | 📦
 --- | --- | --- | --- 
-Elam | [Website](https://elamartists.ac.nz) | `2018` `2017` | [Thesis](https://osf.io/preprints/socarxiv/g6ke9)
-ART+OBJECT | [Website](http://artandobject.co.nz) | `2018` `2017` `2016` | [The Tim and Sherrah Francis Collection](https://www.artandobject.co.nz/auction/106_1/the-tim-and-sherrah-francis-collection-evening-one)
-Sanderson Contemporary | [Website](https://sanderson.co.nz) | `2017` `2016` | 
-Michael Parekōwhai | [Website](http://michaellett.com/artist/michael-parekowhai) | `2014` `2015` | [The Promised Land](https://www.roslynoxley9.com.au/exhibition/the-promised-land/h9cy4)
-Artspace Aotearoa | [Website](http://artspace-aotearoa.nz) | `2015` `2014` | [The Shadow of the Dome of Pleasure](http://eyecontactsite.com/2015/09/feels-so-real)
+Elam | [WWW](https://elamartists.ac.nz) | `2018` `2017` | [Thesis](https://osf.io/preprints/socarxiv/g6ke9)
+ART+OBJECT | [WWW](http://artandobject.co.nz) | `2018` `2017` `2016` | [The Tim and Sherrah Francis Collection](https://www.artandobject.co.nz/auction/106_1/the-tim-and-sherrah-francis-collection-evening-one)
+Sanderson Contemporary | [WWW](https://sanderson.co.nz) | `2017` `2016` | 
+Michael Parekōwhai | [WWW](http://michaellett.com/artist/michael-parekowhai) | `2014` `2015` | [The Promised Land](https://www.roslynoxley9.com.au/exhibition/the-promised-land/h9cy4)
+Artspace Aotearoa | [WWW](http://artspace-aotearoa.nz) | `2015` `2014` | [The Shadow of the Dome of Pleasure](http://eyecontactsite.com/2015/09/feels-so-real)
