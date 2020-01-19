@@ -1,0 +1,18 @@
+title: New Asia Group
+----
+view: default
+----
+banner: true
+----
+text: The New Asia Group is a loose working collective consisting of individuals who look towards a vision of a united "One Asia." 
+
+This idea, first coined by Yoji Sato of the One Asia Foundation, is to find a means of uniting the wider Asian community to create something akin to a "EU for Asia."
+
+Part of working towards this vision is finding ways of making peace across different nations, particularly among East Asian nations over past historical events (e.g. building upon the Kono Statement of 1993 in the case of Japan) and so on. 
+
+NAG is a spin-off Kommons Werkstatt project. If you would like to get involved, email us at comms@newasia.group
+
+----
+short: A vision for a new Asian community
+----
+showonwiki: true
