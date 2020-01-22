@@ -4,7 +4,7 @@ view: default
 ----
 banner: true
 ----
-text: The New Asia Group is a loose working collective consisting of individuals who look towards a vision of a united "One Asia." 
+text: The New Asia Group is a loose working collective consisting of individuals who look towards a vision of a united "One Asia" and establishment of an Asian community of the future. 
 
 This idea, first coined by Yoji Sato of the One Asia Foundation, is to find a means of uniting the wider Asian community to create something akin to a "EU for Asia."
 
