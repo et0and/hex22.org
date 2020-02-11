@@ -2,7 +2,7 @@ title: Tom Hackshaw
 ----
 view: home
 ----
-text: ![Index](/content/cd.gif)
+text: ![Index](/content/ko-we.gif)
 
 ---
 [日本語](https://jp.tom.org.nz) / [한국어](https://kr.tom.org.nz) / [中文](https://cn.tom.org.nz)
