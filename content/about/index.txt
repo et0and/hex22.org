@@ -38,4 +38,4 @@ If you ever want to contact me, use the email link on the frontpage! Otherwise, 
 
 ---
 
-[About this site](/site) / [Manifesto](/manifesto) / [Accessibility](/accessibility) / [License](https://github.com/et0and/hex22.org/blob/master/LICENSE) / [Resume](/resume)
+[About this site](/site) / [Manifesto](/manifesto) / [Accessibility](/accessibility) / [License](https://github.com/et0and/hex22.org/blob/master/LICENSE) / [CV](https://docs.google.com/spreadsheets/d/1IzqlF6SldK-GU2XB0Mdm1Un5rmUE6OPokQoP381YRYA/edit?usp=sharing)
