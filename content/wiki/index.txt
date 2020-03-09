@@ -2,4 +2,4 @@ title: Projects
 ----
 view: wiki
 ----
-text: Collection of projects from 2014-2019.
+text: Collection of projects from 2014-2020
