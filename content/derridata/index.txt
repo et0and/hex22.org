@@ -1,0 +1,12 @@
+title: Derridata
+----
+view: default
+----
+banner: true
+----
+text: [Derridata](https://are.na/tom-y/derridata) is a growing research archive dedicated to the work of French postmodernist and deconstructionist Jacques Derrida. 
+
+----
+short: A research archive dedicated to the work of Jacques Derrida
+----
+showonwiki: true
