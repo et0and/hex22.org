@@ -5,6 +5,8 @@ view: default
 banner: true
 ----
 text: [An idea for a performance](https://ideaforperformance.com) is a web experiment that displays random ideas for performances, built using the are.na API.
+
+![Photo of chair](/content/an-idea-for-a-performance/idea.gif)
 ----
 short: A tool for generating ideas
 ----
