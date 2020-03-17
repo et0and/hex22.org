@@ -1,4 +1,3 @@
-
 title: Basho
 ----
 view: default
@@ -8,6 +7,8 @@ banner: true
 text: Basho is a digital journal powered by and built on top of [Urbit](https://urbit.org), a clean-slate OS and network.
 
 Posts are made daily and central to my personal research/planning. Occasionally, I publish posts to be distributed via [Ames](https://urbit.org/docs/tutorials/arvo/ames/), set on my Urbit ID ~falsef-nostyp.
+
+![A journal on a desk](/content/basho.gif)
 
 ----
 short: A digital journal built on Urbit
