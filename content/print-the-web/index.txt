@@ -1,0 +1,14 @@
+title: Printed Web
+----
+view: default
+----
+banner: true
+----
+text: [Printed Web](https://printed.web.at.kommons.org) is an ongoing online and physical archive of unique websites from around the world.
+
+While this is a continually growing archive, the goal of Printed Web is to have quarterly zines dedicated to the showcasing of websites and online spaces in a physical, printed format for public distribution.
+
+----
+short: An digital and printed archive dedicated to the World Wide Web
+----
+showonwiki: true
