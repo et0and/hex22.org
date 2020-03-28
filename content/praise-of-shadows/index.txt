@@ -1,0 +1,14 @@
+title: Praise of Shadows
+----
+view: default
+----
+banner: true
+----
+text: [Praise of Shadows](https://praiseofshadows.com) is an online archive of exerpts from Jun'ichiro Tanizaki's essay "In Praise of Shadows" with images alongside the texts.
+
+Both the texts and images are pulled from seperate channels on are.na, and are continually being added to.
+
+----
+short: A research archive focused on shadows
+----
+showonwiki: true
