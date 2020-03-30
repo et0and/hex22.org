@@ -6,7 +6,7 @@ banner: true
 ----
 text: [An idea for a performance](https://ideaforperformance.com) is a web experiment that displays random ideas for performances, built using the are.na API.
 
-PDF book version available [here](/content/an-idea-for-a-performance/an-idea-for-a-performance.pdf) (last updated 30/3/2020)
+PDF book version available [here](https://a.tom.org.nz/an-idea-for-a-performance.pdf) (last updated 30/3/2020)
 
 ![Photo of chair](/content/an-idea-for-a-performance/idea.gif)
 ----
