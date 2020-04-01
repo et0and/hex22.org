@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 396 361" width="396" height="361">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #444444;stroke-linecap:round;stroke-linejoin:round;stroke-width: 15 } 
+		.shp1 { fill: none;stroke: #777777;stroke-linecap:round;stroke-linejoin:round;stroke-width: 15 } 
+		.shp2 { fill: none;stroke: #000000;stroke-linecap:round;stroke-linejoin:round;stroke-width: 4 } 
+	</style>
+	<path id="Layer" class="shp0" d="" />
+	<path id="Layer" class="shp1" d="" />
+	<path id="Layer" fill-rule="evenodd" class="shp2" d="M354 28L354 328L54 328L54 28M294 103L294 88L114 88M234 133L294 133L294 118L114 118M114 118L114 133L189 133M144 283C151.88 283 159.68 279.12 166.96 271.58C174.24 264.04 180.85 252.99 186.43 239.07C192 225.14 196.42 208.6 199.43 190.4C202.45 172.2 204 152.7 204 133M144 268C149.91 268 155.76 264.51 161.22 257.72C166.68 250.94 171.64 241 175.82 228.46C180 215.92 183.31 201.04 185.57 184.66C187.84 168.28 189 150.73 189 133M54 28L54 28L354 28M114 103L114 103L294 103M114 88L114 88L114 103M219 133L219 133L234 133M204 133L204 133L219 133M144 283L144 283L144 268" />
+</svg>
