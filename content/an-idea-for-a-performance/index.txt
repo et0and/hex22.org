@@ -8,7 +8,7 @@ text: [An idea for a performance](https://ideaforperformance.com) is a web exper
 
 PDF book version available [here](https://a.tom.org.nz/an-idea-for-a-performance.pdf) (last updated 30/3/2020)
 
-![Photo of chair](/content/an-idea-for-a-performance/idea.gif)
+![Photo of chair](/content/an-idea-for-a-performance/idea.svg)
 ----
 short: A tool for generating ideas
 ----
