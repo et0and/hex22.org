@@ -1,1 +1,18 @@
-1
+title: Hyperjam
+----
+view: default
+----
+banner: true
+----
+text: Hyperjam is an online interactive art event hosted by [Merveilles](https://tom.so/merveilles). Within a virtualised HyperCard environment, all participants are to create works over the first weekend of April and share it with the fediverse.
+
+This will be the first event by Merveilles that I participate in, and am greatly looking forward to it!
+
+![Hyperjam](/content/hyperjam/hyperjam.png)
+
+Poster by [Andrew Richards](https://merveilles.town/@cancel) (@cancel)
+
+----
+short: An interactive art festival hosted by Merveilles
+----
+showonwiki: true
