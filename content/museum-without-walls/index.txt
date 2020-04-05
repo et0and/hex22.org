@@ -1,1 +1,13 @@
-1
+title: The Museum Without Walls
+----
+view: default
+----
+banner: true
+----
+text: [The Museum Without Walls] was a project for the first ever [Merveilles Hyperjam], created over a three day period within an emulated Macintosh Plus environment. While the sequencing is fairly basic, it was great fun to make work using Hypercard and watch what other people created.
+
+![The Museum Without Walls](/content/museum-without-walls/mww.gif)
+----
+short: A project made using Hypercard
+----
+showonwiki: true
