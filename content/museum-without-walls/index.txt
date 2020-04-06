@@ -4,7 +4,7 @@ view: default
 ----
 banner: true
 ----
-text: [The Museum Without Walls] was a project for the first ever [Merveilles Hyperjam](https://tom.so/hyperjam), created over a three day period within an emulated Macintosh Plus environment. While the sequencing is fairly basic, it was great fun to make work using Hypercard and watch what other people created.
+text: [The Museum Without Walls](https://tomupom.itch.io/the-museum-without-walls) was a project for the first ever [Merveilles Hyperjam](https://tom.so/hyperjam), created over a three day period within an emulated Macintosh Plus environment. While the sequencing is fairly basic, it was great fun to make work using Hypercard and watch what other people created.
 
 <iframe src="https://itch.io/embed/604022?linkback=true&amp;link_color=000aa3" width="400" height="167" frameborder="0"><a href="https://tomupom.itch.io/the-museum-without-walls">The Museum Without Walls by Tom</a></iframe>
 
