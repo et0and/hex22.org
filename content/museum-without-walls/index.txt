@@ -6,8 +6,6 @@ banner: true
 ----
 text: [The Museum Without Walls] was a project for the first ever [Merveilles Hyperjam](https://tom.so/hyperjam), created over a three day period within an emulated Macintosh Plus environment. While the sequencing is fairly basic, it was great fun to make work using Hypercard and watch what other people created.
 
-![The Museum Without Walls](/content/museum-without-walls/mww.gif)
-
 <iframe src="https://itch.io/embed/604022?linkback=true&amp;link_color=000aa3" width="400" height="167" frameborder="0"><a href="https://tomupom.itch.io/the-museum-without-walls">The Museum Without Walls by Tom</a></iframe>
 
 Note: You will need to be running a [Hypercard viewer or environment](https://www.gryphel.com/c/minivmac/index.html) in order to play this game
