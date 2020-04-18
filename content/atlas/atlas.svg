@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 399 382" width="399" height="382">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #6a6a6a;stroke-linecap:round;stroke-linejoin:round;stroke-width: 15 } 
+		.shp1 { fill: none;stroke: #4a4a4a;stroke-linecap:round;stroke-linejoin:round;stroke-width: 15 } 
+		.shp2 { fill: none;stroke: #0a0a0a;stroke-linecap:round;stroke-linejoin:round;stroke-width: 5 } 
+	</style>
+	<path id="Layer" class="shp0" d="" />
+	<path id="Layer" class="shp1" d="" />
+	<path id="Layer" fill-rule="evenodd" class="shp2" d="M373 12L373 372L13 372L13 12M43 72L43 132L73 132L73 72L43 72ZM313 72L313 132L343 132L343 72L313 72ZM103 72L103 132L133 132L133 72L103 72ZM253 72L253 132L283 132L283 72L253 72ZM73 312L73 252L43 252L43 312L73 312ZM103 252L103 312L133 312L133 252L103 252ZM253 252L253 312L283 312L283 252L253 252ZM313 252L313 312L343 312L343 252L313 252ZM43 162L43 222L73 222L73 162L43 162ZM103 162L103 222L133 222L133 162L103 162ZM253 162L253 222L283 222L283 162L253 162ZM313 162L313 222L343 222L343 162L313 162ZM13 12L13 12L373 12M193 72L193 72L193 312M163 72L163 72L163 312M223 72L223 72L223 312" />
+</svg>
