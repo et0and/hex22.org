@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 374 374" width="374" height="374">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #6a6a6a;stroke-linecap:round;stroke-linejoin:round;stroke-width: 15 } 
+		.shp1 { fill: none;stroke: #4a4a4a;stroke-linecap:round;stroke-linejoin:round;stroke-width: 15 } 
+		.shp2 { fill: none;stroke: #0a0a0a;stroke-linecap:round;stroke-linejoin:round;stroke-width: 5 } 
+	</style>
+	<path class="shp0" d="" />
+	<path class="shp1" d="" />
+	<path fill-rule="evenodd" class="shp2" d="M367 10L367 370L7 370L7 10M82 70L82 190L157 190L157 145M157 190L157 310L307 310L307 145L187 145L187 190L157 190ZM187 70L82 70L157 145L187 145L187 70ZM7 10L7 10L367 10M82 190L82 190L157 310M187 190L187 190L307 310M187 70L187 70L307 145" />
+</svg>
