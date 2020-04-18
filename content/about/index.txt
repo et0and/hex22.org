@@ -19,7 +19,7 @@ Ko Tom tōku ingoa
 ---
 
 This is my humble website of projects and resources.
-This site is always under construction. It was last updated on Monday 30 March, 2020 in [Tāmaki Makaurau, Aotearoa](https://www.openstreetmap.org/search?query=Auckland%20CBD#map=12/-36.8489/174.7652). 
+This site is always under construction. It was last updated on Saturday 18 April, 2020 in [Tāmaki Makaurau, Aotearoa](https://www.openstreetmap.org/search?query=Auckland%20CBD#map=12/-36.8489/174.7652). 
 
 Prior to working in education I came from an art and design background. This is important. 
 
@@ -34,7 +34,13 @@ If what I see in or express of myself reminds you of your own actions, then toge
 Sincerely,
 Tom Hackshaw
 
-If you ever want to contact me, use the email link on the frontpage! Otherwise, chat with me on Urbit ~falsef-nostyp or Delta (tom at firstnamelastname dot com)
+If you ever want to contact me, use the email link on the frontpage! Otherwise, chat with me on the following:
+
+Urbit ~falsef-nostyp
+
+Delta (tom at firstnamelastname dot com)
+
+SSB @7Ulofc/0mv0X057xiu2Lr/IsAYKDhZoB2nBN6QF4wnQ=.ed25519
 
 ---
 
