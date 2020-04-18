@@ -1,5 +1,3 @@
-<a rel="me" href="https://merveilles.town/@tomupom">Mastodon</a>
-
 title: Tom Hackshaw
 ----
 view: home
@@ -8,7 +6,7 @@ text: ![Index](/content/index1.svg)
 ---
 [日本語](https://jp.tom.org.nz) / [한국어](https://kr.tom.org.nz) / [中文](https://cn.tom.org.nz)
 [Are.na](https://are.na/tom-y)
-[Merveilles](https://merveilles.town/@tomupom)
+<a rel="me" href="https://merveilles.town/@tomupom">Merveilles</a>
 [Webring](https://webring.xxiivv.com/#wiki.xxiivv)
 [Github](https://github.com/et0and)
 [Reading Supply](https://reading.supply/@hackshaw)
