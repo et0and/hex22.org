@@ -10,6 +10,8 @@ Inspired by Gerhard Richter's "Atlas" project, I wanted to create a research too
 
 Atlas pulls my most recent research and reference material from an are.na channel, which is then displayed as a plain HTML page which can be printed for use in my journals and books. 
 
+![Atlas logo](/content/atlas/atlas.svg)
+
 ----
 short: A growing hybrid archive of reference material
 ----
