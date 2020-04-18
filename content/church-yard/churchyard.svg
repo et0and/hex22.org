@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 378" width="380" height="378">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #6a6a6a;stroke-linecap:round;stroke-linejoin:round;stroke-width: 15 } 
+		.shp1 { fill: none;stroke: #4a4a4a;stroke-linecap:round;stroke-linejoin:round;stroke-width: 15 } 
+		.shp2 { fill: none;stroke: #0a0a0a;stroke-linecap:round;stroke-linejoin:round;stroke-width: 5 } 
+	</style>
+	<path id="Layer" class="shp0" d="" />
+	<path id="Layer" class="shp1" d="" />
+	<path id="Layer" fill-rule="evenodd" class="shp2" d="M369 7L369 367L9 367L9 7M69 157L69 217L159 217M159 112L114 67L69 112M264 157L309 112L264 67M264 307L309 262L264 217M9 7L9 7L369 7M159 67L159 67L219 67M309 157L309 157L309 217M159 307L159 307L219 307M159 217L159 217L159 307M159 157L159 157L159 67M69 157L69 157L159 157M219 217L219 217L219 307M219 157L219 157L309 157M219 217L219 217L309 217M219 157L219 157L219 67M69 112L69 112L114 157M219 112L219 112L264 67M69 262L69 262L114 307L114 307M69 262L69 262L114 217M159 262L159 262L114 307M264 307L264 307L219 262M114 262L114 262L159 217M219 157L219 157L264 112M114 112L114 112L159 157M219 217L219 217L264 262" />
+</svg>
