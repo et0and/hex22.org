@@ -1,0 +1,15 @@
+title: A new focus
+----
+view: entry
+----
+date: 2020-04-22
+----
+excerpt: Reflecting on personal approaches I've taken so far, and how I intend to change it.
+
+----
+location: Tāmaki Makaurau
+----
+visible: true
+----
+text: Yesterday I had a call with 
+
