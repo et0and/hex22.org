@@ -38,7 +38,7 @@ function wrapper (state, emit) {
     function navigation () {
       return html`
         <div class="dib fr">
-          ${[state.page('/about'), state.page('/wiki')].map(link)}
+          ${[state.page('/about'), state.page('/wiki'), state.page('/blog')].map(link)}
         </div>
       `
 
