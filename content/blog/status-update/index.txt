@@ -2,7 +2,7 @@ title: Status update
 ----
 view: entry
 ----
-date: 2020-04-22
+date: 2020-04-21
 ----
 excerpt: Reflecting on approaches I've taken to programming so far, and how I intend to change it.
 
