@@ -10,5 +10,4 @@ text:
 [Webring](https://webring.xxiivv.com/#wiki.xxiivv)
 [Github](https://github.com/et0and)
 [Reading Supply](https://reading.supply/@hackshaw)
-[Kommons](https://kommons.org)
 [Contact](mailto:tom@tomhackshaw.com)
