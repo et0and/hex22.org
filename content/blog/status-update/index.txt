@@ -18,9 +18,9 @@ See you tomorrow,
 
 T.
 
--—
+----
 date: 2020-04-21
--—
+----
 location: Tāmaki Makaurau
--—
+----
 visible: true
