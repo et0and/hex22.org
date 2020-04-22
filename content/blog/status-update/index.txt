@@ -2,14 +2,7 @@ title: Status update
 ----
 view: entry
 ----
-date: 2020-04-21
-----
 excerpt: Reflecting on approaches I've taken to programming so far, and how I intend to change it.
-
-----
-location: Tāmaki Makaurau
-----
-visible: true
 ----
 text: Yesterday I had the opportunity to speak with [Piper Haywood](https://piperhaywood.com), a designer and front-end developer based in the UK who makes up one half of the design studio [SB-PH](https://sb-ph.com). Piper has been running digital coffee sessions for the past month as people across the globe are isolated and affected by Covid-19. Having come across her work with [Sam Baldwin](https://sambaldwin.info) before and wanted to get some advice on how a creative might start learning to program, I signed up for a session!
 
@@ -24,3 +17,10 @@ Part of this consistency is writing down and keeping a record of whatever I am d
 See you tomorrow,
 
 T.
+
+-—
+date: 2020-04-21
+-—
+location: Tāmaki Makaurau
+-—
+visible: true

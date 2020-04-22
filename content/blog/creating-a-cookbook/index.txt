@@ -2,14 +2,7 @@ title: Creating a cookbook
 -—
 view: entry
 -—
-date: 2020-04-22
--—
 excerpt: My first steps of learning front-end fundamentals 
-
--—
-location: Tāmaki Makaurau
--—
-visible: true
 -—
 text: My last blog post talked about how I wish to learn how to crawl before attempting to run with regards to front end development. I have gained a very rough knowledge of HTML, CSS and JS over the years through tinkering, but have never learnt the fundamental concepts and terms associated with these technologies. No structure or formal training whatsoever. 
 
@@ -20,3 +13,10 @@ I realise that much of this is going to be fairly standard rote learning and mem
 With lockdown here in New Zealand extended until at least mid-May, it’s all the more reason for me to spend my time productively. Tomorrow I will set everything up and work for two hours (typical of a university lecture). 
 
 T. 
+
+—-
+date: 2020-04-22
+-—
+location: Tāmaki Makaurau
+-—
+visible: true
