@@ -8,6 +8,8 @@ text: [Markono](https://changes.tom.org.nz) ("Markov-Ono", previously titled Ran
 
 Data is read as JSON and output to plain text, while the program itself is written in vanilla JavaScript. 
 
+![Markono logo](/contents/changes/markono.svg)
+
 ----
 short: A program for generating performance instructions 
 ----
