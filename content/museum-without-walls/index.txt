@@ -9,6 +9,8 @@ text: [The Museum Without Walls](https://tomupom.itch.io/the-museum-without-wall
 <iframe src="https://itch.io/embed/604022?linkback=true&amp;link_color=000aa3" width="400" height="167" frameborder="0"><a href="https://tomupom.itch.io/the-museum-without-walls">The Museum Without Walls by Tom</a></iframe>
 
 Note: You will need to be running a [Hypercard viewer or environment](https://www.gryphel.com/c/minivmac/index.html) in order to play this game
+
+![MWW](/content/museum-without-walls/mww.svg)
 ----
 short: A project made using Hypercard
 ----

@@ -12,13 +12,7 @@ I have never considered myself a green thumb by any means. Working on this syste
 
 The project is set to expand to include a greater variety of flora, automated watering and mulching, and be modular in design to allow for easy transport and set up. 
 
-![Microme first week](/content/microme/microme1.gif)
-
-![Microme second week](/content/microme/microme2.gif)
-
-![Microme third week](/content/microme/microme3.gif)
-
-![Microme fourth week](/content/microme/microme4.gif)
+![Microme](/content/microme/microme.svg)
 
 ----
 short: An indoor garden/ecosystem

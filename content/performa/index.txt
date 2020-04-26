@@ -10,6 +10,8 @@ While similar boards and collections exist on Pinterest, I have found that the s
 
 This board is open and compliant with the [are.na API](http://dev.are.na) - use it however you want!
 
+![Performa logo](/content/performa/performa.svg)
+
 ----
 short: A performance art archive
 ----

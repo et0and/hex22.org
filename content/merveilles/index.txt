@@ -6,7 +6,7 @@ banner: true
 ----
 text: [Merveilles](https://merveilles.town) is a community project aimed at the establishment of new ways of speaking, seeing and organizing information — a culture that seeks augmentation through the arts of engineering and design.
 
-![Maru](/content/merveilles/maru.gif)
+![Maru](/content/merveilles/merveilles-logo.svg)
 ----
 short: A community of artists and developers
 ----

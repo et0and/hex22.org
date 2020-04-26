@@ -12,7 +12,7 @@ Part of working towards this vision is finding ways of making peace across diffe
 
 NAG is a spin-off Kommons Werkstatt project. If you would like to get involved, email us at comms@newasia.group
 
-![NAG](/content/new-asia-group/nag.gif)
+![NAG](/content/new-asia-group/nag.svg)
 
 ----
 short: A vision for a future Asian community

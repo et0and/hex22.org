@@ -8,6 +8,8 @@ text: [Praise of Shadows](https://praiseofshadows.com) is an online archive of e
 
 Both the texts and images are pulled from seperate channels on are.na, and are continually being added to.
 
+![Shadows](/content/praise-of-shadows/shadows.svg)
+
 ----
 short: A research archive focused on shadows
 ----
